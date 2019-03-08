@@ -2,7 +2,7 @@
 this repository is used for web3.js priactice
 
 
-![Image]((./Img/main.gif))
+![Image](./Img/main.gif)
 
 ## NodeInfo : 
   Get Ethereum Node Information
